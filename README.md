@@ -1,4 +1,4 @@
-### Hi, I'm Patrik Duda.
+### :high_brightness: Hi, I'm Patrik Duda.
 
 
 ### :man_technologist: About Me :
