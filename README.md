@@ -1,5 +1,8 @@
 ### Hi, I'm Patrik Duda.
 
+
+### :man_technologist: About Me :
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
