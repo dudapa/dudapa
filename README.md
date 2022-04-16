@@ -1,3 +1,3 @@
-### Hi, I'm Patrik Duda. 👋
+### Hi, I'm Patrik Duda.
 
  
