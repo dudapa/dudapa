@@ -2,6 +2,8 @@
 
 
 ### :man_technologist: About Me :
+I graduated from the Faculty of Electrical Engineering in Pilsen in 2020, where I got a Master's degree. After my studies, I decided to start learning programming from scratch, before I had had programming in C and Matlab as secondary subjects at university. I have to admit that I had not understand programming well, but it had seemed me very interesting.  
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
