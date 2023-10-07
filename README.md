@@ -2,7 +2,7 @@
 
 
 ### :man_technologist: About Me :
-I graduated from the Faculty of Electrical Engineering in Pilsen in 2020, where I got a Master's degree. My field of study was more focused on electrical engineering and energetics than on the computer science. After my studies, I decided to start learning programming from scratch, before I had already had programming in C and Matlab as secondary subjects at university. I have to admit that I did not understand programming well, but it seemed very interesting to me.  
+I graduated from the Faculty of Electrical Engineering in Pilsen, where I got a Master's degree. My field of study was more focused on electrical engineering and energetics than on the computer science. After my studies, I decided to start learning programming from scratch, before I had already had programming in C and Matlab as secondary subjects at university. I have to admit that I did not understand programming well, but it seemed very interesting to me.  
 
 My new journey to learn programming started with learning Python. I am glad for this choice, because Python helped me understand the basics of programming properly and programming terms as procedural, functional or object-oriented paradigms. After that, I started to learn Django, JavaScript, HTML, CSS and other technologies. I really became interested in programming. I enjoy programming and I want to become a professional programmer.
 
